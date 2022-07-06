@@ -1,0 +1,9 @@
+D:\Проекты\PhotoConverter\bin\Release\PhotoConverter.exe.config
+D:\Проекты\PhotoConverter\bin\Release\PhotoConverter.exe
+D:\Проекты\PhotoConverter\obj\Release\PhotoConverter.csproj.AssemblyReference.cache
+D:\Проекты\PhotoConverter\obj\Release\PhotoConverter.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\PhotoConverter\obj\Release\PhotoConverter.Form1.resources
+D:\Проекты\PhotoConverter\obj\Release\PhotoConverter.Properties.Resources.resources
+D:\Проекты\PhotoConverter\obj\Release\PhotoConverter.csproj.GenerateResource.cache
+D:\Проекты\PhotoConverter\obj\Release\PhotoConverter.csproj.CoreCompileInputs.cache
+D:\Проекты\PhotoConverter\obj\Release\PhotoConverter.exe
